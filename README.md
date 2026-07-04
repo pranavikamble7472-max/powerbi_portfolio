@@ -25,8 +25,13 @@ This dashboard analyzes employee attrition, workforce distribution, and salary t
 This dashboard tracks sales performance, customer behavior, and product trends to boost ecommerce revenue.
 
 **Key Insights**:
-- Total Revenue
-- Top Selling Products
-- Customer Retention Rate
+- Total Revenue: 2M
+- Total Profit: 1M
+- Average Order Value: 3.53K
+- Total Orders: 500
+- Top Selling Categories & Products
+- Sales Trend by Month
+- Order Status Breakdown
+- Region & Channel Performance
 ![Ecommerce Dashboard](Ecommerce.%20png.jpeg)
 ## More Projects Coming Soon...
