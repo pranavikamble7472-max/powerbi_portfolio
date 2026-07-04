@@ -28,6 +28,5 @@ This dashboard tracks sales performance, customer behavior, and product trends t
 - Total Revenue
 - Top Selling Products
 - Customer Retention Rate
-
-![Ecommerce Dashboard](Ecommerce. png.jpeg)
+![Ecommerce Dashboard](Ecommerce.%20png.jpeg)
 ## More Projects Coming Soon...
