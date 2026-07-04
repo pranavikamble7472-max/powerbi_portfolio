@@ -17,4 +17,17 @@ This dashboard analyzes employee attrition, workforce distribution, and salary t
 
 ![HR Dashboard](HR-ANALTICS-DASHBOARD.png)
 
+## Project 2: Ecommerce Sales Dashboard
+
+**Tools Used**: Power BI, SQL, DAX
+
+**About**:
+This dashboard tracks sales performance, customer behavior, and product trends to boost ecommerce revenue.
+
+**Key Insights**:
+- Total Revenue
+- Top Selling Products
+- Customer Retention Rate
+
+![Ecommerce Dashboard](Ecommerce. png.jpeg)
 ## More Projects Coming Soon...
