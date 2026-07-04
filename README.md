@@ -72,4 +72,24 @@ Analyzed Netflix dataset of 5337+ titles to uncover trends in Movies vs TV Shows
 ![Netflix Dashboard](Netflix_dashbard.png)
 
 [Download PBIX File](Netflix.dashboard.pbix)
-## More Projects Coming Soon...
+
+## Project 5: Domino's Supply Chain & Sales Dashboard
+
+**Tools Used**: Power BI, DAX, Data Cleaning
+
+**About**:
+Analyzed Domino's Pizza sales and supply chain data across 20K+ restaurants to identify revenue trends, customer preferences, and store performance metrics.
+
+**Key Insights**:
+- **Total Revenue**: 198K across 20K Restaurants
+- **Category Analysis**: Non-Veg contributes 58.88% of total revenue
+- **Store Type**: Delivery accounts for 40% of total orders
+- **Payment Trend**: Cash is the most preferred payment mode
+- **Monthly Trend**: Revenue dropped from 60K in Jan to 31K in May 2024
+- **Quantity Analysis**: Significant drop observed in Q2
+
+![Domino's Dashboard](DOMINO_Supply_Chain_Sales_Dashboard.png)
+
+[Download PBIX File](DOMINOS_DASHBOARD.pbix)
+
+
